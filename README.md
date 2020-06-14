@@ -58,7 +58,7 @@ are supported.
 Just download the script and make it executable with `chmod`.
 
 ```
-wget https://raw.githubusercontent.com/burghardt/easy-wg-quick/master/easy-wg-quick
+wget https://raw.githubusercontent.com/ishrak1010/easy-wg-quick/master/easy-wg-quick
 chmod +x easy-wg-quick
 ```
 
